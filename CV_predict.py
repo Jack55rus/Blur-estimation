@@ -16,6 +16,7 @@ def isBlurred(img, th):
     else:
         return True
 
+
 threshold = 50  # defined empirically, might be changed
 
 # The following commented block is used to evaluate accuracy of the method
